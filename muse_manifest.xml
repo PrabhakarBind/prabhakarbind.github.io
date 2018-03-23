@@ -1,0 +1,62 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="prabhakarbind.com" resolutions="1x,2x" timestamp="1521822760352">
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index:contact:the-designer"/>
+    <file name="u510.png" crc="3795129263" ref="index:contact:the-designer"/>
+    <file name="u510_2x.png" crc="3842642995" ref="index:contact:the-designer"/>
+    <file name="u510-a.png" crc="425329691" ref="index:contact:the-designer"/>
+    <file name="u510-a_2x.png" crc="3947339742" ref="index:contact:the-designer"/>
+    <file name="u773.png" crc="287503636" ref="index:contact:the-designer"/>
+    <file name="u773_2x.png" crc="3843058621" ref="index:contact:the-designer"/>
+    <file name="u773-a.png" crc="461577261" ref="index:contact:the-designer"/>
+    <file name="u773-a_2x.png" crc="3839357631" ref="index:contact:the-designer"/>
+    <file name="u853.png" crc="4170380270" ref="index:contact:the-designer"/>
+    <file name="u853_2x.png" crc="427497374" ref="index:contact:the-designer"/>
+    <file name="u853-a.png" crc="492438940" ref="index:contact:the-designer"/>
+    <file name="u853-a_2x.png" crc="3949314194" ref="index:contact:the-designer"/>
+    <file name="u1416-7.png" crc="4258168194" ref="index"/>
+    <file name="u1416-7_2x.png" crc="518390927" ref="index"/>
+    <file name="u3213-4.png" crc="3848834564" ref="index"/>
+    <file name="u3213-4_2x.png" crc="478088912" ref="index"/>
+    <file name="u1434-17.png" crc="4077829413" ref="index"/>
+    <file name="u1434-17_2x.png" crc="4218927859" ref="index"/>
+    <file name="u2922-5.png" crc="335753012" ref="index"/>
+    <file name="u2922-5_2x.png" crc="51420488" ref="index"/>
+    <file name="u2943-4.png" crc="525826372" ref="index"/>
+    <file name="u2943-4_2x.png" crc="276787443" ref="index"/>
+    <file name="u2956-4.png" crc="219282842" ref="index"/>
+    <file name="u2956-4_2x.png" crc="3941509402" ref="index"/>
+    <file name="u2964-4.png" crc="414599254" ref="index"/>
+    <file name="u2964-4_2x.png" crc="14190693" ref="index"/>
+    <file name="arrow-head--noun_89087.svg" crc="398625991" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="arrow head -noun_89087_poster_.png" crc="210668639" ref="index"/>
+    <file name="u3006-4.png" crc="473490858" ref="index"/>
+    <file name="u3006-4_2x.png" crc="3830710540" ref="index"/>
+    <file name="u3014-4.png" crc="3909372965" ref="index"/>
+    <file name="u3014-4_2x.png" crc="50948960" ref="index"/>
+    <file name="u4150-4.png" crc="4179028328" ref="index:contact:the-designer"/>
+    <file name="u4150-4_2x.png" crc="4265234449" ref="index:contact:the-designer"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="4024507750" ref="index"/>
+    <file name="master_a-master.css" crc="14129441" ref="index:contact:the-designer"/>
+    <file name="contact.css" crc="3826091367" ref="contact"/>
+    <file name="the-designer.css" crc="3826091367" ref="the-designer"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contact:the-designer"/>
+    <file name="museutils.js" crc="3803043152" ref="index:contact:the-designer"/>
+    <file name="whatinput.js" crc="86476730" ref="index:contact:the-designer"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:contact:the-designer"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:contact:the-designer"/>
+    <file name="require.js" crc="4157109226" ref="index:contact:the-designer"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:contact:the-designer"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:contact:the-designer"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4065355411" seo="true" mt="1521822631224" redirect="true"/>
+  <file name="contact.html" crc="4261853506" seo="true" mt="1521822457318" redirect="true"/>
+  <file name="the-designer.html" crc="4018224091" seo="true" mt="1521822457318" redirect="true"/>
+</manifest>
