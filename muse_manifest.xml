@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="prabhakarbind.com" resolutions="1x,2x" timestamp="1524308133737">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="prabhakarbind.com" resolutions="1x,2x" timestamp="1526038063083">
   <folder name="fonts">
     <file name="montserrat-light.woff" crc="3921076213"/>
     <file name="montserrat-light.eot" crc="4180766604"/>
@@ -12,13 +12,13 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="3874708684"/>
-    <file name="master_a-master.css" crc="135601190" ref="index:contact:the-designer"/>
+    <file name="master_a-master.css" crc="3876011837" ref="index:contact:the-designer"/>
+    <file name="index.css" crc="4289841754" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="249962819" ref="index:contact:the-designer"/>
-    <file name="index.css" crc="52887753" ref="index"/>
-    <file name="nomq_index.css" crc="3811044726" ref="index"/>
-    <file name="contact.css" crc="3791261058" ref="contact"/>
+    <file name="nomq_index.css" crc="290726329" ref="index"/>
+    <file name="contact.css" crc="163255801" ref="contact"/>
     <file name="nomq_contact.css" crc="519635815" ref="contact"/>
-    <file name="the-designer.css" crc="4011049910" ref="the-designer"/>
+    <file name="the-designer.css" crc="488551299" ref="the-designer"/>
     <file name="nomq_the-designer.css" crc="183059690" ref="the-designer"/>
   </folder>
   <folder name="scripts">
@@ -32,13 +32,12 @@
     <file name="webpro.js" crc="4059564322" ref="index:contact:the-designer"/>
     <file name="musewpdisclosure.js" crc="3883500470" ref="index:contact:the-designer"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:contact:the-designer"/>
-    <file name="jquery.museresponsive.js" crc="527716135" ref="index:contact:the-designer"/>
     <file name="require.js" crc="7928878" ref="index:contact:the-designer"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:contact:the-designer"/>
   </folder>
   <folder name="images">
-    <file name="u4150-4.png" crc="3946950600" ref="index:contact:the-designer"/>
-    <file name="u4150-4_2x.png" crc="3882983904" ref="index:contact:the-designer"/>
     <file name="blank.gif" crc="4208392903" ref="index:contact:the-designer"/>
+    <file name="projects-favicon.ico" crc="3768073408" ref="index"/>
     <file name="u510.png" crc="257637835" ref="index:contact:the-designer"/>
     <file name="u510_2x.png" crc="407485840" ref="index:contact:the-designer"/>
     <file name="u510-r.png" crc="257637835" ref="index:contact:the-designer"/>
@@ -68,10 +67,13 @@
     <file name="w-img_5771_2x.jpg" crc="520432112" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="slide14.jpg" crc="4269021782" ref="index">
+    <file name="khoj-01.jpg" crc="62446812" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="prabhakar ai assistant-01-01.jpg" crc="4004790217" ref="index">
+    <file name="prabhakar ai assistant-01.jpg" crc="3893334989" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="prabhakar ai assistant-01_2x.jpg" crc="407353120" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="eeny meeny cover image.jpg" crc="4256147312" ref="index">
@@ -96,56 +98,6 @@
     <file name="arrow up.jpg" crc="3786987006" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u1416-92.png" crc="4025451663" ref="index"/>
-    <file name="u1416-9_2x2.png" crc="3908936505" ref="index"/>
-    <file name="u1416-93.png" crc="3762565586" ref="index"/>
-    <file name="u1416-9_2x3.png" crc="3989800622" ref="index"/>
-    <file name="u1416-94.png" crc="265483166" ref="index"/>
-    <file name="u1416-9_2x4.png" crc="339802819" ref="index"/>
-    <file name="u8725.png" crc="3896578731" ref="index:contact:the-designer"/>
-    <file name="u8725_2x.png" crc="3805146053" ref="index:contact:the-designer"/>
-    <file name="u8725-r.png" crc="4082484959" ref="index:contact:the-designer"/>
-    <file name="u8725-r_2x.png" crc="3792565199" ref="index:contact:the-designer"/>
-    <file name="u8725-a.png" crc="4121489737" ref="index:contact:the-designer"/>
-    <file name="u8725-a_2x.png" crc="167542077" ref="index:contact:the-designer"/>
-    <file name="u8718.png" crc="6655230" ref="index:contact:the-designer"/>
-    <file name="u8718_2x.png" crc="3779902278" ref="index:contact:the-designer"/>
-    <file name="u8718-r.png" crc="44566128" ref="index:contact:the-designer"/>
-    <file name="u8718-r_2x.png" crc="319517023" ref="index:contact:the-designer"/>
-    <file name="u8718-a.png" crc="3869920760" ref="index:contact:the-designer"/>
-    <file name="u8718-a_2x.png" crc="501159280" ref="index:contact:the-designer"/>
-    <file name="u8836.png" crc="522319721" ref="index:contact:the-designer"/>
-    <file name="u8836_2x.png" crc="360372794" ref="index:contact:the-designer"/>
-    <file name="u8836-r.png" crc="3932171914" ref="index:contact:the-designer"/>
-    <file name="u8836-r_2x.png" crc="3785614177" ref="index:contact:the-designer"/>
-    <file name="u8836-a.png" crc="5255791" ref="index:contact:the-designer"/>
-    <file name="u8836-a_2x.png" crc="132081052" ref="index:contact:the-designer"/>
-    <file name="u1416-95.png" crc="297985075" ref="index"/>
-    <file name="u1416-9_2x5.png" crc="464073383" ref="index"/>
-    <file name="hamburger menu-noun_933312_cc.png" crc="3868300300" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="hamburger menu-noun_933312_cc_2x.png" crc="4072186363" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u1416-96.png" crc="4178537418" ref="index"/>
-    <file name="u1416-9_2x6.png" crc="3815786275" ref="index"/>
-    <file name="slide14-u10357-fr.jpg" crc="3807366554" ref="index"/>
-    <file name="slide14-u10357-fr_2x.jpg" crc="4284262485" ref="index"/>
-    <file name="prabhakar ai assistant-01-01-u10416-fr.jpg" crc="3873957267" ref="index"/>
-    <file name="prabhakar ai assistant-01-01-u10416-fr_2x.jpg" crc="4073218742" ref="index"/>
-    <file name="eeny meeny cover image-u10478-fr.jpg" crc="4222994599" ref="index"/>
-    <file name="eeny meeny cover image-u10478-fr_2x.jpg" crc="4088210647" ref="index"/>
-    <file name="prabhakar ubicomp-02-u10512-fr.jpg" crc="4106063215" ref="index"/>
-    <file name="prabhakar ubicomp-02-u10512-fr_2x.jpg" crc="420477217" ref="index"/>
-    <file name="prabhakar hop up bus-u10600-fr.jpg" crc="97805448" ref="index"/>
-    <file name="prabhakar hop up bus-u10600-fr_2x.jpg" crc="4256922817" ref="index"/>
-    <file name="prabhakar kickstarter-u10626-fr.jpg" crc="3967471948" ref="index"/>
-    <file name="prabhakar kickstarter-u10626-fr_2x.jpg" crc="3922751301" ref="index"/>
-    <file name="prabhakar interactive exhibit-u10683-fr.jpg" crc="318201112" ref="index"/>
-    <file name="prabhakar interactive exhibit-u10683-fr_2x.jpg" crc="189446142" ref="index"/>
-    <file name="projects-favicon.ico" crc="3768073408" ref="index"/>
-    <file name="favicon.ico" crc="3768073408" ref="contact"/>
     <file name="call-noun_1657626_cc.svg" crc="4105804801" seo="true" ref="index:contact:the-designer">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -206,8 +158,77 @@
     <file name="youtube-rollover.png" crc="218151107" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="u4150-4.png" crc="3946950600" ref="index:contact:the-designer"/>
+    <file name="u4150-4_2x.png" crc="3882983904" ref="index:contact:the-designer"/>
+    <file name="u1416-92.png" crc="4025451663" ref="index"/>
+    <file name="u1416-9_2x2.png" crc="3908936505" ref="index"/>
+    <file name="khoj-012.jpg" crc="238070457" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="khoj-01_2x.jpg" crc="62446812" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="prabhakar ai assistant-01-u9542-fr.jpg" crc="70388214" ref="index"/>
+    <file name="prabhakar ai assistant-01-u9542-fr_2x.jpg" crc="4008617111" ref="index"/>
+    <file name="u1416-93.png" crc="3762565586" ref="index"/>
+    <file name="u1416-9_2x3.png" crc="3989800622" ref="index"/>
+    <file name="khoj-01-u5931-fr.jpg" crc="235703426" ref="index"/>
+    <file name="khoj-01-u5931-fr_2x.jpg" crc="3924590714" ref="index"/>
+    <file name="prabhakar ai assistant-01-u9542-fr2.jpg" crc="74621441" ref="index"/>
+    <file name="prabhakar ai assistant-01-u9542-fr_2x2.jpg" crc="170497499" ref="index"/>
+    <file name="u1416-94.png" crc="265483166" ref="index"/>
+    <file name="u1416-9_2x4.png" crc="339802819" ref="index"/>
+    <file name="prabhakar ai assistant-01-u10416-fr.jpg" crc="4046975725" ref="index"/>
+    <file name="prabhakar ai assistant-01-u10416-fr_2x.jpg" crc="299281618" ref="index"/>
+    <file name="u8725.png" crc="3896578731" ref="index:contact:the-designer"/>
+    <file name="u8725_2x.png" crc="3805146053" ref="index:contact:the-designer"/>
+    <file name="u8725-r.png" crc="4082484959" ref="index:contact:the-designer"/>
+    <file name="u8725-r_2x.png" crc="3792565199" ref="index:contact:the-designer"/>
+    <file name="u8725-a.png" crc="4121489737" ref="index:contact:the-designer"/>
+    <file name="u8725-a_2x.png" crc="167542077" ref="index:contact:the-designer"/>
+    <file name="u8718.png" crc="6655230" ref="index:contact:the-designer"/>
+    <file name="u8718_2x.png" crc="3779902278" ref="index:contact:the-designer"/>
+    <file name="u8718-r.png" crc="44566128" ref="index:contact:the-designer"/>
+    <file name="u8718-r_2x.png" crc="319517023" ref="index:contact:the-designer"/>
+    <file name="u8718-a.png" crc="3869920760" ref="index:contact:the-designer"/>
+    <file name="u8718-a_2x.png" crc="501159280" ref="index:contact:the-designer"/>
+    <file name="u8836.png" crc="522319721" ref="index:contact:the-designer"/>
+    <file name="u8836_2x.png" crc="360372794" ref="index:contact:the-designer"/>
+    <file name="u8836-r.png" crc="3932171914" ref="index:contact:the-designer"/>
+    <file name="u8836-r_2x.png" crc="3785614177" ref="index:contact:the-designer"/>
+    <file name="u8836-a.png" crc="5255791" ref="index:contact:the-designer"/>
+    <file name="u8836-a_2x.png" crc="132081052" ref="index:contact:the-designer"/>
+    <file name="u1416-95.png" crc="297985075" ref="index"/>
+    <file name="u1416-9_2x5.png" crc="464073383" ref="index"/>
+    <file name="khoj-01-u10357-fr.jpg" crc="4018381777" ref="index"/>
+    <file name="khoj-01-u10357-fr_2x.jpg" crc="354847196" ref="index"/>
+    <file name="prabhakar ai assistant-01-u10416-fr2.jpg" crc="127877774" ref="index"/>
+    <file name="prabhakar ai assistant-01-u10416-fr_2x2.jpg" crc="421343084" ref="index"/>
+    <file name="hamburger menu-noun_933312_cc.png" crc="3868300300" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hamburger menu-noun_933312_cc_2x.png" crc="4072186363" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1416-96.png" crc="4178537418" ref="index"/>
+    <file name="u1416-9_2x6.png" crc="3815786275" ref="index"/>
+    <file name="khoj-01-u10357-fr2.jpg" crc="3879849968" ref="index"/>
+    <file name="khoj-01-u10357-fr_2x2.jpg" crc="15558448" ref="index"/>
+    <file name="prabhakar ai assistant-01-u10416-fr3.jpg" crc="3835699862" ref="index"/>
+    <file name="prabhakar ai assistant-01-u10416-fr_2x3.jpg" crc="4243614241" ref="index"/>
+    <file name="eeny meeny cover image-u10478-fr.jpg" crc="4222994599" ref="index"/>
+    <file name="eeny meeny cover image-u10478-fr_2x.jpg" crc="4088210647" ref="index"/>
+    <file name="prabhakar ubicomp-02-u10512-fr.jpg" crc="4106063215" ref="index"/>
+    <file name="prabhakar ubicomp-02-u10512-fr_2x.jpg" crc="420477217" ref="index"/>
+    <file name="prabhakar hop up bus-u10600-fr.jpg" crc="97805448" ref="index"/>
+    <file name="prabhakar hop up bus-u10600-fr_2x.jpg" crc="4256922817" ref="index"/>
+    <file name="prabhakar kickstarter-u10626-fr.jpg" crc="3967471948" ref="index"/>
+    <file name="prabhakar kickstarter-u10626-fr_2x.jpg" crc="3922751301" ref="index"/>
+    <file name="prabhakar interactive exhibit-u10683-fr.jpg" crc="318201112" ref="index"/>
+    <file name="prabhakar interactive exhibit-u10683-fr_2x.jpg" crc="189446142" ref="index"/>
+    <file name="favicon.ico" crc="3768073408" ref="contact"/>
   </folder>
-  <file name="index.html" crc="8938952" seo="true" mt="1524307715401" redirect="true"/>
-  <file name="contact.html" crc="4095630623" seo="true" mt="1524308093018" redirect="true"/>
-  <file name="the-designer.html" crc="4256683744" seo="true" mt="1524308058811" redirect="true"/>
+  <file name="index.html" crc="74414745" seo="true" mt="1526038045037" redirect="true"/>
+  <file name="contact.html" crc="50141444" seo="true" mt="1524308093018" redirect="true"/>
+  <file name="the-designer.html" crc="190827343" seo="true" mt="1524308058811" redirect="true"/>
 </manifest>
