@@ -1,4 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="prabhakarbind.com" resolutions="1x,2x" timestamp="1526038063083">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="prabhakarbind.com" resolutions="1x,2x" timestamp="1532116167596">
+  <folder name="assets">
+    <file name="prabhakar_resume_ixd_ux.pdf" crc="22757789" seo="true" mt="1532114895000"/>
+  </folder>
   <folder name="fonts">
     <file name="montserrat-light.woff" crc="3921076213"/>
     <file name="montserrat-light.eot" crc="4180766604"/>
@@ -12,14 +15,14 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="3874708684"/>
-    <file name="master_a-master.css" crc="3876011837" ref="index:contact:the-designer"/>
-    <file name="index.css" crc="4289841754" ref="index"/>
-    <file name="nomq_preview_master_a-master.css" crc="249962819" ref="index:contact:the-designer"/>
-    <file name="nomq_index.css" crc="290726329" ref="index"/>
-    <file name="contact.css" crc="163255801" ref="contact"/>
-    <file name="nomq_contact.css" crc="519635815" ref="contact"/>
-    <file name="the-designer.css" crc="488551299" ref="the-designer"/>
-    <file name="nomq_the-designer.css" crc="183059690" ref="the-designer"/>
+    <file name="master_a-master.css" crc="474730681" ref="index:contact:the-designer"/>
+    <file name="index.css" crc="439476508" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="4294020793" ref="index:contact:the-designer"/>
+    <file name="nomq_index.css" crc="3865327696" ref="index"/>
+    <file name="contact.css" crc="3860036855" ref="contact"/>
+    <file name="nomq_contact.css" crc="3917090247" ref="contact"/>
+    <file name="the-designer.css" crc="4104576913" ref="the-designer"/>
+    <file name="nomq_the-designer.css" crc="234343789" ref="the-designer"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contact:the-designer"/>
@@ -228,7 +231,7 @@
     <file name="prabhakar interactive exhibit-u10683-fr_2x.jpg" crc="189446142" ref="index"/>
     <file name="favicon.ico" crc="3768073408" ref="contact"/>
   </folder>
-  <file name="index.html" crc="74414745" seo="true" mt="1526038045037" redirect="true"/>
-  <file name="contact.html" crc="50141444" seo="true" mt="1524308093018" redirect="true"/>
-  <file name="the-designer.html" crc="190827343" seo="true" mt="1524308058811" redirect="true"/>
+  <file name="index.html" crc="22256955" seo="true" mt="1532116085432" redirect="true"/>
+  <file name="contact.html" crc="396443393" seo="true" mt="1532115281618" redirect="true"/>
+  <file name="the-designer.html" crc="306716165" seo="true" mt="1532115421943" redirect="true"/>
 </manifest>
